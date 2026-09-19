@@ -1,0 +1,22 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore executables
+*.exe
+
+# Ignore log files
+*.log
+
+# Ignore temporary files created by editors
+*.swp
+*.swo
+*.tmp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore build directories (if you use Maven/Gradle later)
+target/
+bin/
+out/
